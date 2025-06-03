@@ -1,20 +1,12 @@
  # versionupdate
 
- Refactor code
- -------------
- Not timed (good to get it back within 24 hours)
-
+ ## Refactor code
  An intern has provided the code below to update the version number
  within two different files.
  The intern has left and you need to review and improve the code before
  submitting to source control.
 
- Please do not be constrained by the existing code (i.e. you don't have
- to keep the same function names, structure)
- Aim for production quality 'best-practice/clean' code
-
- Original Requirements
- ---------------------
+ ## Original Requirements
  A script in a build process needs to update the build version number in 2
  locations.
  - The version number will be in an environment variable "BuildNum"
